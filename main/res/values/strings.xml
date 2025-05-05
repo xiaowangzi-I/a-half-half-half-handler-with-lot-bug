@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyHandler</string>
+    <string name="looper">Looper</string>
+</resources>
